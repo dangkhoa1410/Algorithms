@@ -4,8 +4,8 @@
 
 ## JAVASCRIPT
 
-### [String] (Algorithms/String)
-- [Longest Palindrome Substring] (Algorithms/String/longestPalindromeSub.js)  
+### [String](Algorithms/String)
+- [Longest Palindrome Substring](Algorithms/String/longestPalindromeSub.js)  
 ### Data Structure
 ### Search
 ### Recursive
