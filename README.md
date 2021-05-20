@@ -7,7 +7,7 @@
 ### [String](String)
 - [Longest Palindrome Substring](String/longestPalindromeSub.js)  
 ### [Array](Array)
-- [Find the Median of two sorted arrays](Array/findMedianSortedArrays)
+- [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 ### Data Structure
 ### Search
 ### Recursive
