@@ -6,6 +6,7 @@
 
 ### [String](String)
 - [Longest Palindrome Substring](String/longestPalindromeSub.js)  
+- [Find and Replace Pattern](/String/findAndReplacePattern.js)
 ### [Array](Array)
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 ### Data Structure
