@@ -1,26 +1,30 @@
 //Selection Sort recursive method
 function selectionSort(arr,index=0){    
-    //base
+    //BASE CASE
+    //Return the array if we reach the end of the array
     if(index == arr.length-1){
         return arr
     }
-    //Sort the array
-    var min = arr[index]
+
+    //SORTING PROCESS
+    //Loop through the array and swap the value which is greater than the check value
+    var checkVal = arr[index]
     var idx = index
 
     for (let i=index; i<arr.length; i++){
-        if(min > arr[i]){
-            min = arr[i]
+        if(checkVal > arr[i]){
+            checkVal = arr[i]
             idx = i
         }
     }
 
     arr[idx] = arr[index]
-    arr[index] = min
+    arr[index] = checkVal
     
-    //forward process
+    //FORWARD PROCESS
     index++
-    //recursive
+
+    //RECURSIVE
     return selectionSort(arr,index)
 
 }
