@@ -7,9 +7,11 @@
 ### [String](String)
 - [Longest Palindrome Substring](String/longestPalindromeSub.js)  
 - [Find and Replace Pattern](/String/findAndReplacePattern.js)
+- [String to Integer / myAtoi](/String/myAtoi.js)
 ### [Array](Array)
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 ### [Sorting](Sorting)
 - [Selection Sort](Sorting/selectionSort.js)
 ### Data Structure
 ### Recursive
+
