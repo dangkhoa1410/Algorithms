@@ -12,6 +12,7 @@
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 - [Find the container with the most water](Array/containerWithMostWater.js)
 ### [Sorting](Sorting)
+- [Bubble Sort](Sorting/bubbleSort.js)
 - [Selection Sort](Sorting/selectionSort.js)
 ### Data Structure
 ### Recursive
