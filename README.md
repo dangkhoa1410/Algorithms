@@ -11,6 +11,7 @@
 ### [Array](Array)
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 - [Find the container with the most water](Array/containerWithMostWater.js)
+- [Flipping Coins to make alternate order](Array/flippingCoins.js)
 ### [Sorting](Sorting)
 - [Bubble Sort](Sorting/bubbleSort.js)
 - [Selection Sort](Sorting/selectionSort.js)
