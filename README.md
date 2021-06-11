@@ -8,7 +8,7 @@
 - [Longest Palindrome Substring](String/longestPalindromeSub.js)  
 - [Find and Replace Pattern](/String/findAndReplacePattern.js)
 - [String to Integer / myAtoi](/String/myAtoi.js)
-- [Integer to Roman character](String/IntegertoRoman.js)
+- [Integer to Roman character](String/IntegerToRoman.js)
 ### [Array](Array)
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 - [Find the container with the most water](Array/containerWithMostWater.js)
