@@ -5,6 +5,7 @@
 ## JAVASCRIPT
 
 ### [String](String)
+- [Check Palindrome](String/checkPalindrome.js)
 - [Longest Palindrome Substring](String/longestPalindromeSub.js)  
 - [Find and Replace Pattern](/String/findAndReplacePattern.js)
 - [String to Integer / myAtoi](/String/myAtoi.js)
