@@ -11,6 +11,7 @@
 - [String to Integer / myAtoi](/String/myAtoi.js)
 - [Integer to Roman character](String/IntegerToRoman.js)
 - [Characters in Order](String/CharsInOrder.js)
+- [Check Vowels](String/CheckVowels.js)
 ### [Array](Array)
 - [Find the Median of two sorted arrays](Array/findMedianSortedArrays.js)
 - [Find the container with the most water](Array/containerWithMostWater.js)
