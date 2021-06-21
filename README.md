@@ -18,6 +18,7 @@
 - [Flipping Coins to make alternate order](Array/flippingCoins.js)
 - [Merge Two Sorted Array](/Array/ArrayUnion.js)
 - [Two Sum](Array/twoSum.js)
+- [Array Union](Array/ArrayUnion.js)
 ### [Sorting](Sorting)
 - [Bubble Sort](Sorting/bubbleSort.js)
 - [Selection Sort](Sorting/selectionSort.js)

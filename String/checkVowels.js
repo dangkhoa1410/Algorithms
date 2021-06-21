@@ -1,4 +1,4 @@
-// 7. Write a JavaScript function that accepts a string as a parameter and counts the number ofvowels within the string.  
+// Write a JavaScript function that accepts a string as a parameter and counts the number ofvowels within the string.  
 // Example string : 'The quick brown fox' Expected Output : 5
 
 const checkVowels = str => {
