@@ -2,7 +2,7 @@
 <p>Solutions will be updated daily</p>
 <p align="center"><img alt="Algo Picture from https://www.agorapulse.com/" src="https://www.agorapulse.com/social-media-lab/wp-content/uploads/sites/6/2020/06/instagram-algorithm-image.png"/></p>
 
-## JAVASCRIPT
+## LIST OF ALGOS (by Javascript)
 
 ### [String](String)
 - [Check Palindrome](String/checkPalindrome.js)
@@ -24,4 +24,8 @@
 - [Selection Sort](Sorting/selectionSort.js)
 ### Data Structure
 ### Recursive
+
+## ALGORITHM RESOURCES
+- [Javascript Algoritthms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- [Sorting Algorithms](https://www.freecodecamp.org/news/understanding-sorting-algorithms/)
 
